@@ -3,12 +3,13 @@
 <h1>About me:</h1>
 
 
-<h2> My specialties: </h2>
+## My specialties: 
 
 [![Discord](https://img.shields.io/badge/Discord-4052ef?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-d30000?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/Telegram-009dff?style=for-the-badge&logo=telegram&logoColor=white)]()
 
+## Language:
 
 [![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-005FED?style=for-the-badge&logo=c&logoColor=white)]()
