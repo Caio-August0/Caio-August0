@@ -6,13 +6,11 @@
 ### My specialties: 
 
 [![Discord](https://img.shields.io/badge/Discord-4052ef?style=for-the-badge&logo=discord&logoColor=white)]()
-
 [![Gmail](https://img.shields.io/badge/Gmail-d30000?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 #### Language:
 
 [![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)]()
-
 [![C](https://img.shields.io/badge/C-005FED?style=for-the-badge&logo=c&logoColor=white)]()
 
 ### Mys studys:📚
@@ -26,7 +24,6 @@
   #### Operational System:
   
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() 
-
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-39017e?style=for-the-badge&logo=ubuntu&logoColor=white)]()
   
 ### Office Package:
