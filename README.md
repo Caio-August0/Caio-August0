@@ -1,5 +1,4 @@
 ### Hi, I' am Caio 👋
-<hr> 
 
 ## About me:
 
