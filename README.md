@@ -5,4 +5,4 @@
 
 ## My specialties:
 
-<img scr "https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
