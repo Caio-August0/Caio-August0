@@ -6,8 +6,8 @@
 ## My specialties: 
 
 [![Discord](https://img.shields.io/badge/Discord-4052ef?style=for-the-badge&logo=discord&logoColor=white)]()
+
 [![Gmail](https://img.shields.io/badge/Gmail-d30000?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/Telegram-009dff?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 ## Language:
 
