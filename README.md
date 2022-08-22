@@ -9,7 +9,7 @@
 [![Blog](https://img.shields.io/badge/Spring-DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-e20d0d?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-d31515?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 [![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)]()
 
