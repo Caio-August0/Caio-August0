@@ -1,6 +1,6 @@
 ### Hi, I' am Caio 👋
 
-##>About me:🔍
+## About me:🔍
 
 
 ## My specialties: 
