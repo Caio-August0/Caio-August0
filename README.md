@@ -18,13 +18,10 @@
 
 
 [![Git](https://img.shields.io/badge/Git-fc2500?style=for-the-badge&logo=Git&logoColor=white)]()
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-39017e?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-
-
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 
