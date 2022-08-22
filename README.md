@@ -5,7 +5,7 @@
 
 ## My specialties:
 
-<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+
 [![Blog](https://img.shields.io/badge/Spring-DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 
 
