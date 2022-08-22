@@ -16,7 +16,7 @@
 [![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-005FED?style=for-the-badge&logo=c&logoColor=white)]()
 
-# My studys in versioning system and remote repositoy:
+### My studys in versioning system and remote repositoy:
 
 [![Git](https://img.shields.io/badge/Git-fc2500?style=for-the-badge&logo=Git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
