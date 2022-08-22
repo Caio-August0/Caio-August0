@@ -13,14 +13,14 @@
 [![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-005FED?style=for-the-badge&logo=c&logoColor=white)]()
 
-### My studys in versioning system and remote repositoy:
+### My studys in Sersioning System and Remote Repositoy:
 
 [![Git](https://img.shields.io/badge/Git-fc2500?style=for-the-badge&logo=Git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 [![Blog](https://img.shields.io/badge/Spring-DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 
-### My studys in operational system:
+### My studys in Operational System:
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-39017e?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
