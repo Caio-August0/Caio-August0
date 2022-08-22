@@ -3,7 +3,8 @@
 ## About me:
 
 ## My specialties:
-#EA4335
+
+[![Gmail]]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
