@@ -2,16 +2,24 @@
 
 ### About me:🔍
 
+[![Discord](https://img.shields.io/badge/Discord-4052ef?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-d30000?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ### My specialties: 
 
-[![Discord](https://img.shields.io/badge/Discord-4052ef?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-d30000?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 #### Language:
 
 [![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-005FED?style=for-the-badge&logo=c&logoColor=white)]()
+
+### Office Package:
+  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-003399?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+
+  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-e02c00?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]()
+
+  [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-006606?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+
 
 ### Mys studys:📚
   ### Sersioning System and Remote Repositoy:
