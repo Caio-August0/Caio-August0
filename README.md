@@ -28,7 +28,7 @@
 ### Mys studys:📚
   #### Sersioning System and Remote Repositoy:
   [![Git](https://img.shields.io/badge/Git-fc2500?style=for-the-badge&logo=Git&logoColor=white)]()
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+  [![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)]()
     
   #### Ecosytem Spring:
   [![Blog](https://img.shields.io/badge/Spring-05122A?style=for-the-badge&logo=Spring&logoColor=green)]()
