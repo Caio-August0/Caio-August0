@@ -31,7 +31,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
     
   #### Ecosytem Spring:
-  [![Blog](https://img.shields.io/badge/Spring-DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+  [![Blog](https://img.shields.io/badge/Spring-05122A?style=for-the-badge&logo=Spring&logoColor=green)]()
 
   #### Operational System:
   
