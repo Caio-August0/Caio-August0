@@ -36,7 +36,7 @@
   #### Operational System:
   
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() 
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-39017e?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=for-the-badge&logo=ubuntu&logoColor=orange%20orange)]()
   
 
 
