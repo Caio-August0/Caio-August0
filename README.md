@@ -14,9 +14,9 @@
 [![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)]()
 
 ### Office Package:
-  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=drakblue)]()
+  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=darkblue)]()
 
-  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=drakorange)]()
+  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=darkorange)]()
 
   [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen)]()
   
