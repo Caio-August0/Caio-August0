@@ -21,8 +21,8 @@
   [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen)]()
   
 ### Adobe:
-  [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4169e1)]()
-  [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=3d1d00)]()
+  [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=1560d8)]()
+  [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=d66300)]()
 
 
 ### Mys studys:📚
