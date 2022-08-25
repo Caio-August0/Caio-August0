@@ -2,12 +2,11 @@
 ### About me:🔍
 
 #### Speak whith me:
-[![Discord](https://img.shields.io/badge/Discord-05122A?style=for-the-badge&logo=discord&logoColor=4052ef)]()
-[![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=d30000)]()
+[![Discord](https://img.shields.io/badge/Discord-05122A?style=for-the-badge&logo=discord&logoColor=4052ef)]() [![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=d30000)]()
 ### My specialties: 
 
 
-### Language:[![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white)]() [![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)]()
+#### Language:[![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white)]() [![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)]()
 
 #### Office Package:  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=003399)]()  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=e02c00)]() [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen)]()
   
