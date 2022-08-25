@@ -1,11 +1,12 @@
-## Hi, I' am Caio 👋
+## Hi, I' am Caio 👋 ainda em construção....
 ### About me:🔍
+
 
 #### Speak whith me:
 [![Discord](https://img.shields.io/badge/Discord-05122A?style=for-the-badge&logo=discord&logoColor=4052ef)]() [![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=d30000)]()
 ### My specialties: 
 
-#### Language:
+#### Languages:
 [![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white)]() [![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)]()
 
 #### Office Package:
