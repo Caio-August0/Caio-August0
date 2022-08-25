@@ -14,11 +14,11 @@
 [![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)]()
 
 ### Office Package:
-  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=blue)]()
+  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=drakblue)]()
 
-  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=orange)]()
+  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=drakorange)]()
 
-  [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=green)]()
+  [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen)]()
   
 ### Adobe:
   [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue%20blue)]()
