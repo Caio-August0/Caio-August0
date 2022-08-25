@@ -25,7 +25,6 @@
   [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=1560d8)]()
   [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=d66300)]()
 
-
 ### Mys studys:📚
   #### Sersioning System and Remote Repositoy:
   [![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=Git&logoColor=fc2500)]()
@@ -35,7 +34,6 @@
   [![Blog](https://img.shields.io/badge/Spring-05122A?style=for-the-badge&logo=Spring&logoColor=green%20green)]()
 
   #### Operational System:
-  
   [![Windows](https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows&logoColor=white)]() 
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=for-the-badge&logo=ubuntu&logoColor=fc2500)]()
   
