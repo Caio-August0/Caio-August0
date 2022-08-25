@@ -2,8 +2,8 @@
 
 ### About me:🔍
 
-[![Discord](https://img.shields.io/badge/Discord-4052ef?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-d30000?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-05122A?style=for-the-badge&logo=discord&logoColor=4052ef)]()
+[![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=d30000)]()
 
 ### My specialties: 
 
