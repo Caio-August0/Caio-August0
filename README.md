@@ -16,7 +16,7 @@
 ### Office Package:
   [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=blue%20blue)]()
 
-  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=orange%20orange)]()
+  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=orangeorange)]()
 
   [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=green%20green)]()
   
