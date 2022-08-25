@@ -14,9 +14,9 @@
 [![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)]()
 
 ### Office Package:
-  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=blue)]()
+  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=003399)]()
 
-  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=darkorange)]()
+  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=e02c00)]()
 
   [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen)]()
   
@@ -27,7 +27,7 @@
 
 ### Mys studys:📚
   #### Sersioning System and Remote Repositoy:
-  [![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=Git&logoColor=orange%20orange)]()
+  [![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=Git&logoColor=fc2500)]()
   [![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)]()
     
   #### Ecosytem Spring:
@@ -36,7 +36,7 @@
   #### Operational System:
   
   [![Windows](https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows&logoColor=white)]() 
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=for-the-badge&logo=ubuntu&logoColor=orange%20orange)]()
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=for-the-badge&logo=ubuntu&logoColor=fc2500)]()
   
 
 
